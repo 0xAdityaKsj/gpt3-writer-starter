@@ -72,7 +72,7 @@ const Home = () => {
       </div>
       <div className="badge-container grow">
         <a
-          href="https://twitter.com/0xadi_k"
+          href="https://www.buymeacoffee.com/adityaksj"
           target="_blank"
           rel="noreferrer"
         >
